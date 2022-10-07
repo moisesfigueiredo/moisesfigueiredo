@@ -2,7 +2,7 @@
 <p>
   +15 anos com desenvolvimento de software<br>
   <br>
-  Durante esse tempo, pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
+  Durante esse tempo pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
 </p>
 
 <hr>

@@ -1,8 +1,8 @@
 <h1>Sobre mim...</h1>
 <p>
-  Atuo há +15 anos com desenvolvimento de software<br>
+  +15 anos com desenvolvimento de software<br>
   <br>
-  Atuei diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
+  Pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
 </p>
 
 <hr>

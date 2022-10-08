@@ -15,4 +15,4 @@
 <hr>
 
 [![Linkedin: moisesfigueiredo](https://img.shields.io/badge/-moisesfigueiredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moises-barboza-de-figueiredo/)](https://www.linkedin.com/in/moises-barboza-de-figueiredo/)
-![GitHub followers](https://img.shields.io/github/followers/moisesfigueiredo?label=Follow&style=social)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moisesfigueiredo)](https://github.com/moisesfigueiredo)

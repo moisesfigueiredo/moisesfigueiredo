@@ -14,7 +14,5 @@
 
 <hr>
 
-<a href="https://www.linkedin.com/in/moises-barboza-de-figueiredo/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:moises.figueiredo@gmail.com?" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Linkedin: moisesfigueiredo](https://img.shields.io/badge/-moisesfigueiredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moises-barboza-de-figueiredo/)](https://www.linkedin.com/in/moises-barboza-de-figueiredo/)
+![GitHub followers](https://img.shields.io/github/followers/moisesfigueiredo?label=Follow&style=social)

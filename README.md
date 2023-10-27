@@ -10,8 +10,6 @@
 - 🏢 Atualmente trabalho como Engenheiro de Software na <a href="https://www.basis.com.br/">Basis - Tecnologia da Informação</a>
 - 💻 Desenvolvedor Fullstack
 - 💪 Foco em tencologias Microsoft
-- 🏆 Pós-Graduado pela UGF, UCAM, UFF e FIAP (2024)
-- 📈 MBA em Gestão Empresarial
 - 🎯 Coach
 
 <hr>

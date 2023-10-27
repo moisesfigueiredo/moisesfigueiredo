@@ -1,16 +1,18 @@
 <h1>Sobre mim...</h1>
 <p>
-  +15 anos com desenvolvimento de software<br>
+  +16 anos com desenvolvimento de software<br>
   <br>
   Durante esse tempo pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
 </p>
 
 <hr>
 
-- 🏢 Atualmente trabalho como Engenheiro de Software na <a href="https://redeglobo.globo.com">Rede Globo</a>
+- 🏢 Atualmente trabalho como Engenheiro de Software na <a href="https://www.basis.com.br/">Basis - Tecnologia da Informação</a>
 - 💻 Desenvolvedor Fullstack
 - 💪 Foco em tencologias Microsoft
-- 🗣 Coach
+- 🏆 Pós-Graduado pela UGF, UCAM, UFF e FIAP (2024)
+- 📈 MBA em Gestão Empresarial
+- 🎯 Coach
 
 <hr>
 

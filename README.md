@@ -1,6 +1,6 @@
 <h1>Sobre mim...</h1>
 <p>
-  +16 anos com desenvolvimento de software<br>
+  +17 anos com desenvolvimento de software<br>
   <br>
   Durante esse tempo pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia.
 </p>

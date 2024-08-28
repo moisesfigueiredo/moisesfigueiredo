@@ -20,7 +20,8 @@
 </div>
 
 <hr>
-## Redes sociais 💻🚀
+
+<h1>Redes sociais 💻🚀</h1>
 
 [![Linkedin: moisesfigueiredo](https://img.shields.io/badge/-moisesfigueiredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moises-barboza-de-figueiredo/)](https://www.linkedin.com/in/moises-barboza-de-figueiredo/)
 <a href="mailto:moises.figueiredo@gmail.com"><img height="20px;" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

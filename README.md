@@ -7,7 +7,7 @@
 
 <hr>
 
-- 🏢 Atualmente trabalho como Engenheiro de Software na <a href="https://www.basis.com.br/">Basis - Tecnologia da Informação</a>
+- 🏢 Atualmente trabalho como Engenheiro de Software na <a href="https://www.basis.com.br/">Basis</a>
 - 💻 Desenvolvedor Fullstack
 - 💪 Foco em tencologias Microsoft
 - 🎯 Coach

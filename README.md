@@ -1,6 +1,6 @@
 <h1>Sobre mim...</h1>
 <p>
-  Atuo há mais de 17 anos com desenvolvimento de software, principalmente Desenvolvimento Web.<br><br>
+  Atuo há mais de 17 anos com desenvolvimento de software, principalmente Desenvolvimento Web.<br>
   
   Durante esse tempo pude atuar em diversos setores de negócio: Telecom, Petróleo e Gás, Seguros e Previdência, Setor Elétrico, Saúde, Direitos Autorais e Mídia; em projetos de todos os tamanhos.
 </p>
